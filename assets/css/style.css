@@ -60,21 +60,25 @@ margin: auto;
 .date {
     font-family: 'Avril Fatface';
 }
-
-.more-articles section {
-    display: inline-block;
-    width: 300px;
-    margin: 20px;
-}
   
 hr {
 color: #fff;
 }
 
 
-.header-nav {
+.header-nav{
     position: sticky;
     top: 0;
     background-color: #fff;
-
 }
+.more-articles section {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+}
+
+.extra-articles section{
+    display: inline-block;
+    width: 190px;
+    margin: 20px;
+} 
